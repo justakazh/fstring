@@ -1,6 +1,9 @@
+#!/usr/bin/env python3
+
+
 # Really i'm just feel so bad today, so i create this tool for u
 # hope you can enjoy it :)
-#!/usr/bin/env python3
+
 import sys
 import os
 
